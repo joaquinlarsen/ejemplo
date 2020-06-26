@@ -39,8 +39,8 @@ ball.shape("circle")
 ball.color("white")
 ball.penup()
 ball.goto(0, 0)
-ball.dx = 0.35
-ball.dy = 0.35
+ball.dx = 0.4
+ball.dy = 0.4
 
 # Pen
 
